@@ -1,0 +1,7 @@
+-Link para download do Git (https://git-scm.com/downloads)
+O Git Bash é um terminal extendido para otimizar o uso do Git
+- Para copiar e colar qualquer coisa dentro do Git Bash tenho que usar: 
+Ctrl + Ins para copiar e Shift + Ins para colar.
+Fora do ambiente do Git Bash pode ser efetuado a copia normal com Ctrl + C.
+
+
