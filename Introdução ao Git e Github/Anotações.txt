@@ -6,6 +6,7 @@ Dentro do Git Bash, coloque git status para verificar alterações realizadas;
 Depois **git add .** para que seja preparado e aceito as modificações.
 Depois **git commit -m** "Coloque aqui entre "" breve comentário sobre o que foi alterado"
 Após todas as mudanças agora é preciso enviar para a nuvem ou Github, **git push origin main**
+
 - Para copiar e colar qualquer coisa dentro do Git Bash tenho que usar: 
 Ctrl + Ins para copiar e Shift + Ins para colar.
 Fora do ambiente do Git Bash pode ser efetuado a copia normal com Ctrl + C.
