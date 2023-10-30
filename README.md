@@ -3,4 +3,4 @@
 Trata-se de desafio de projeto DIO - Git/Github
 
 ## Links Úteis 
-[The Markdown Guide - Basic Syntax] (https://www.markdownguide.org/basic-syntax/)
+[The Markdown Guide - Basic Syntax](https://www.markdownguide.org/basic-syntax/)
