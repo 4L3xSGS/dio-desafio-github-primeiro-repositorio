@@ -1,5 +1,10 @@
 -Link para download do Git (https://git-scm.com/downloads)
 O Git Bash é um terminal extendido para otimizar o uso do Git
+
+- Após as modificações dentro das pastas na maquina local, precisa enviar para o Github. 
+Dentro do Git Bash, coloque git status para verificar alterações realizadas;
+Depois git add . para que seja preparado e aceito as modificações.
+Depois git commit -m "Coloque aqui entre "" breve comentário sobre o que foi alterado"
 - Para copiar e colar qualquer coisa dentro do Git Bash tenho que usar: 
 Ctrl + Ins para copiar e Shift + Ins para colar.
 Fora do ambiente do Git Bash pode ser efetuado a copia normal com Ctrl + C.
